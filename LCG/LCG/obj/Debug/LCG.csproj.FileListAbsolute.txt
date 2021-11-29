@@ -1,0 +1,7 @@
+D:\GitHub clone\LCG\LCG\LCG\bin\Debug\LCG.exe.config
+D:\GitHub clone\LCG\LCG\LCG\bin\Debug\LCG.exe
+D:\GitHub clone\LCG\LCG\LCG\bin\Debug\LCG.pdb
+D:\GitHub clone\LCG\LCG\LCG\obj\Debug\LCG.csproj.AssemblyReference.cache
+D:\GitHub clone\LCG\LCG\LCG\obj\Debug\LCG.csproj.CoreCompileInputs.cache
+D:\GitHub clone\LCG\LCG\LCG\obj\Debug\LCG.exe
+D:\GitHub clone\LCG\LCG\LCG\obj\Debug\LCG.pdb
